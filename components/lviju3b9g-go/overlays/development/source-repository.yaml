@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lviju3b9g-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lviju3b9g-go
